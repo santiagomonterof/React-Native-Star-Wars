@@ -2,7 +2,7 @@
 ### Technology: React Native
 Small mobile application made in React Native that consumes the https://swapi.dev/ API. 
 
-This page includes:
+This app includes:
 * List of people, planets, starships, cars, films and species.
 * Respective Search Element
 
